@@ -31,3 +31,9 @@ Para evitar o alto processamento e travamentos de edição enquanto o cálculo e
 # Como contribuir
 
 - Registre sua ocorrência neste repositório através do [link ISSUES](https://github.com/CBSIIFSLagarto/ValidadorPIT/issues).
+
+# Agradecimentos
+
+- [ShareX](https://github.com/ShareX/ShareX/)
+- [ezgif](https://ezgif.com)
+- [Andrey “Rarst” Savchenko](https://www.rarst.net/code/link-latest-github-release-binary/)
