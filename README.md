@@ -5,6 +5,8 @@ Conjunto de macros em excel para auxiliar na elaboração do PIT do IFS que deve
 
 # Uso 
 
+![Exemplo de uso](https://raw.githubusercontent.com/CBSIIFSLagarto/ValidadorPIT/master/ExemploDeUso.gif)
+
 Para fazer uso siga o seguinte roteiro:
 
 1. Realize o download da planilha na aba RELEASES;
