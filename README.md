@@ -12,13 +12,14 @@ Para fazer uso siga o seguinte roteiro:
 
 1. Realize o download da planilha na aba RELEASES;
 1. Abra a planilha e habilite a opção de macros;
-1. Edite o conteúdo da "Planilha1"
+1. Edite o conteúdo da `Planilha 1`
 
    - As células devem ser preenchidas com texto;
    - O cálculo é realizado por dia;
-   - O validador contará as células que foram mescladas (unificadas/merges) que contém texto.
+   - O validador contará as células que foram mescladas que contém texto.
    
 1. Vá para a planilha resumo e efetue dois cliques em cada uma das celulas que você quer que seja contabilzada.
+1. Quando concluir o ajuste de horário, selecione o conteúdo da `Planilha 1`, copie e cole no arquivo disponibilizado pelo Sigaa (menu PIT).
 
 # Problemas conhecidos
 
