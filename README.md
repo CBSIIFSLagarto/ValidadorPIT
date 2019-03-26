@@ -1,2 +1,19 @@
 # ValidadorPIT
-Conjunto de macros em excel para auxiliar na elaboração do PIT do IFS
+Conjunto de macros em excel para auxiliar na elaboração do PIT do IFS que devem ser importados para o SIGAA.
+
+- Atualmente trabalha com carga horária diária de 8 horas.
+
+# Uso 
+
+Para fazer uso siga o seguinte roteiro:
+
+1. Realize o download da planilha na aba RELEASES;
+1. Abra a planilha e habilite a opção de macros;
+1. Edite o conteúdo da "Planilha1".
+  - As células devem ser preenchidas com texto;
+  - O validador contará as células que foram unificadas (merges) que contém texto;
+1. Vá para a planilha resumo e efetue dois cliques em cada uma das celulas que você quer que seja contabilzada.
+
+# Como contribuir
+
+- Registre sua ocorrência neste repositório através da aba ISSUES.
