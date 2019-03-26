@@ -1,4 +1,4 @@
-# ValidadorPIT
+# Validador de PIT
 Conjunto de macros em excel para auxiliar na elaboração do PIT do IFS que devem ser importados para o SIGAA.
 
 - Atualmente trabalha com carga horária diária de 8 horas.
