@@ -3,9 +3,10 @@ Conjunto de macros em excel para auxiliar na elaboração do PIT do IFS que deve
 
 - Atualmente trabalha com carga horária diária de 8 horas.
 
-# Uso 
 
-![Exemplo de uso](https://raw.githubusercontent.com/CBSIIFSLagarto/ValidadorPIT/master/ExemploDeUso.gif)
+![Exemplo de uso](ExemploDeUso.gif?raw=true)
+
+# Uso 
 
 Para fazer uso siga o seguinte roteiro:
 
