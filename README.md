@@ -10,7 +10,7 @@ Conjunto de macros em excel para auxiliar na elaboração do PIT do IFS que deve
 
 Para fazer uso siga o seguinte roteiro:
 
-1. Realize o download da planilha na aba RELEASES ou através do [link](https://github.com/CBSIIFSLagarto/ValidadorPIT/ValidadorPIT.zip?raw=true);
+1. Realize o download da planilha na aba [RELEASES](https://github.com/CBSIIFSLagarto/ValidadorPIT/releases/);
 1. Abra a planilha e habilite a opção de macros;
 1. Edite o conteúdo da `Planilha 1`
 
