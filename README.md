@@ -30,4 +30,4 @@ Para evitar o alto processamento e travamentos de edição enquanto o cálculo e
 
 # Como contribuir
 
-- Registre sua ocorrência neste repositório através da aba ISSUES.
+- Registre sua ocorrência neste repositório através do [link ISSUES](https://github.com/CBSIIFSLagarto/ValidadorPIT/issues).
